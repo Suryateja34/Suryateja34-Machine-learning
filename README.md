@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...Machine learning and data science 
 - 🌱 I’m currently learning ...Data science , data structures and algorithms,machine learning
 - 💞️ I’m looking to collaborate on ...Machine learning
-- 📫 How to reach me ...you can contact through Whatsapp : 9573788477
 
 <!---
 Suryateja34/Suryateja34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
